@@ -1,4 +1,4 @@
-# GeNP@S$
+<img width="548" height="144" alt="image" src="https://github.com/user-attachments/assets/ae1910e9-2e81-46d4-b6ad-520d3a70b02a" />
 
 This is a Python tool designed for the efficient and expeditious generation of robust, distinctive, and arbitrary passwords. The GeNP@S$ accommodates three password types: simple, complex, and base64 encoded. This versatile tool is well-suited for both personal and professional contexts.
 
